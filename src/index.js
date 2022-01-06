@@ -1,0 +1,6 @@
+console.log('------------下面是es3输出-----------')
+const es3 = require('./es3')
+console.log('------------下面是es5输出-----------')
+const es5 = require('./es5')
+console.log('------------下面是es6输出-----------')
+const es6 = require('./es6')
